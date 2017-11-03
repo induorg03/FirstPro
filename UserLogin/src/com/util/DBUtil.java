@@ -1,3 +1,5 @@
+/* DBUtill Comments   */
+
 package com.util;
 
 import java.sql.Connection;
