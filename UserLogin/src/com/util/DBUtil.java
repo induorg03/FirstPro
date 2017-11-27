@@ -1,5 +1,5 @@
 /* DBUtill Comments   */
-*************************
+
 
 package com.util;
 
